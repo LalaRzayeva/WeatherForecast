@@ -1,0 +1,72 @@
+h1,
+h3,
+h4,
+li,
+p {
+  color: #0C3E73;
+}
+
+.btn-primary {
+  background: #F99E24;
+  border: transparent;
+  margin-left: 1em;
+}
+
+.btn-primary:hover {
+  background: #F9C783;
+}
+
+.card {
+  display: inline-block;
+  background: url(../assets/background.png);
+  margin: 1em 1.3em;
+  width: 18em;
+  text-align: left;
+}
+
+h1,
+h3 {
+  text-align: center;
+}
+
+.icon {
+  font-size: 4em;
+}
+
+ul {
+  list-style-type: none;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 0;
+  font-weight: bolder;
+}
+
+li:hover {
+  color: #C9DC12;
+}
+
+.search_box {
+  margin: 0 auto;
+}
+
+.weather_info {
+  padding: 0 auto;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.the_temp {
+  display: inline-block;
+  font-weight: bolder;
+  font-size: 2.5rem;
+  position: absolute;
+  right: 2rem;
+}
+
+.card-text {
+  line-height: 0.5rem;
+}
+
+#logo {
+  background: transparent;
+}
