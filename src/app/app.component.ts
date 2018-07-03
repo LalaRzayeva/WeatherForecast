@@ -13,7 +13,6 @@ import { WeatherDetail } from './shared/weatherDetail';
 
 export class AppComponent {
 
-  
   locations: Location[];
   weatherInfo: WeatherInfo;
   weatherDetail: WeatherDetail;
